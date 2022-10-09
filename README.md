@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @l3xi42
-- 👀 I’m interested in arduino electronics, python programming, competetive programming, RUst and more...
+- 👀 I’m interested in arduino electronics, python programming, competetive programming
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on anything.
 <!---
