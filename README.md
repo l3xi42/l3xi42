@@ -1,6 +1,6 @@
 # Hi, I'm Lexi42 👋
 
-I'm an Electrical Engineering student at Eindhoven University of Technology (TU/e). My interests span the hardware-software stack—from **integrated circuit (IC) design** and digital logic  down to embedded firmware, real-time control, and **robotics systems**.
+I'm an Electrical Engineering student at Eindhoven University of Technology (TU/e). My interests span the hardware-software stack from **integrated circuit (IC) design** and digital logic  down to embedded firmware, real-time control, and **robotics systems**.
 
 - 🔭 **Current Focus:** Microcontrollers & firmware, digital/analog circuit design, and algorithm optimization (C++).
 - ⚙️ **Exploring:** everything...
